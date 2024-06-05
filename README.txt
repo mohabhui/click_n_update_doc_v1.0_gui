@@ -1,3 +1,7 @@
+# Clipboard to Excel v1.0
+
+![Application Screenshot](https://github.com/mohabhui/resources/blob/main/images/clipboard_to_excel.png?raw=true)
+
 **Application Name:** click-n-update  
 **Application Version:** 1.0  
 **Author:** mohabhui  
