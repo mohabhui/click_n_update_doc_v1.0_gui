@@ -1,0 +1,7 @@
+{
+  "template_doc": ["./docx/sample.docx"],
+  "applicant_name": ["John Doe","Arial", "Bold", "Italic", "Blue", "Underline"],
+  "job_title": ["Software Engineer", "Cyan", "Courier New", "Bold"],
+  "joining_date":["01-Sep-2024", "Red"],
+  "hourly_rate":["CA$ 85", "Bold", "Purple"]
+}
