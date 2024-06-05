@@ -1,4 +1,4 @@
-# Clipboard to Excel v1.0
+# Click-N-Update Doc
 
 ![Application Screenshot](https://github.com/mohabhui/resources/blob/main/images/click-n-update_v1.0.png?raw=true)
  
