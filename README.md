@@ -1,4 +1,4 @@
-# Click-N-Update Doc
+# Click-N-Update Doc v1.0
 
 ![Application Screenshot](https://github.com/mohabhui/resources/blob/main/images/click-n-update_v1.0.png?raw=true)
  
